@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\bin\Debug\TestExecutable.exe.config
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\bin\Debug\TestExecutable.exe
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\bin\Debug\TestExecutable.pdb
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\bin\Debug\TestLibrary.dll
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\bin\Debug\TestLibrary.pdb
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\obj\Debug\TestExecutable.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\obj\Debug\TestExecutable.exe
+C:\Users\Administrator\Desktop\Siemens\Siemens Pratices\DotNet\VSApps\Day-1\TestLibrary\TestExecutable\obj\Debug\TestExecutable.pdb
